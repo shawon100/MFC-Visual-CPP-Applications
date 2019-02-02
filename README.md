@@ -1,2 +1,2 @@
-# MFC-Visual-C-Applications
+# MFC-Visual-CPP-Applications
 MFC Visual C++ Applications
