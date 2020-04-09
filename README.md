@@ -2,7 +2,7 @@
 MFC Visual C++ Applications
 
 # Note
-Open The CTabControl.sln file in Visual Studio and Build Soultion. Then Run by CTRL+f5
+Open The CTabControl.sln file in Visual Studio and Build Soultion. Then Run by CTRL+F5
 
 
 
