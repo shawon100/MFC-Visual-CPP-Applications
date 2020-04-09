@@ -2,7 +2,7 @@
 MFC Visual C++ Applications
 
 # Note
-Precompiled header file CTabControl.pch is not present here for large size. You have to make a project with same name CTabControl and copy CTabControl.pch to given folder.
+Open The CTabControl.sln file in Visual Studio and Build Soultion. Then Run by CTRL+f5
 
 
 
